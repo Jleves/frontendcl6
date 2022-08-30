@@ -1,0 +1,62 @@
+.cabezal{
+    background-color: rgb(50, 50, 50);
+    color: white;
+    font-size: 25px;
+
+}
+
+.navlista {
+background-color: #F0A83E;
+height: 100px;
+
+}
+.banner{
+    background-image:url(../img/fondo\ body.png);
+    background-size: cover
+;
+    height: 900px;
+}
+h2{
+    text-align: center;
+    background-color: white;
+    color: black;
+    font-size: 50px;
+}
+.promocion1 {
+    font-size: 35px;
+}
+
+.comederos {
+    font-size: 38px;
+}
+h6{
+    background-color: rgba(31, 31, 31, 1);
+    color: white;
+}
+.suscripcion {
+    background-color: rgba(240,168, 62, 1);
+font-size: 35px;
+}
+footer{
+    background-color: rgba(60, 35, 19, 1);
+    color: white;
+    font-size: 10px;
+}
+
+.comida{
+    text-align: center;
+}
+
+.contactanos{
+
+font-size: 30px;
+}
+
+
+h4 {
+    font-size: 35px;
+}
+
+.navfooter {
+    font-size: 15px;
+}
